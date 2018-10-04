@@ -1,0 +1,11 @@
+Meeting 2, 2018-10-04:
+
+We all have sympy built. Mish was four minutes late.
+We found some issues, but need to work on reproducing more of them.
+
+#15283
+#14608
+#15186
+#15237
+#15323
+#15056
