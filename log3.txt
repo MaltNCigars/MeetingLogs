@@ -1,0 +1,7 @@
+Meeting 3:
+
+Matthew, Michael and Meshri present.
+
+Worked on identifying issues and see if the issues were fixed or not on the latest sympy release.
+
+
