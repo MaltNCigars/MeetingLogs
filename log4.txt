@@ -1,7 +1,5 @@
 Meeting 4:
 
-10/26/18
-
 Michael and Matthew present.
 
 Issue #15237 was closed but not by our group.
