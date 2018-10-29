@@ -6,11 +6,11 @@ Non-issues:
 #15137
 
 Dsolve wrong answers:
-#15237 -- Easy?
 #15056 -- Maybe tricky.
 
 Collect assumes Commutativity:
-#14608 -- Easy?
+#14608 -- It's not obvious what the correct/expected behavior of collect
+       -- is in a non-commutative context. Need to wait for upstream feedback.
 
 Limit issues:
 #15146 -- There is a good chance all three of these are related.
