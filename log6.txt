@@ -1,0 +1,9 @@
+Meeting 6: 2018-11-01
+
+Matthew, Michael, Rishob and Meshri present.
+
+Currently working on issue #15331.
+
+Found issue with simplify function with matrix non-commutative exponentials.
+
+Found issue within trigsimp.py file, line 547.
