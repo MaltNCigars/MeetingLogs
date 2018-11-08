@@ -1,18 +1,24 @@
+Limit issues:
+#15146 -- There is a good chance all three of these are related.
+#15323
+##new -- See scratch.py -- There is some weirdness with limits and floats.
+
+Dsolve:
+#15056 -- Maybe tricky. Has to do with functions of irrelevant variables.
+
+NonCommutative:
+#14608 -- Someone else already fixed this issue, but it can still be
+       -- improved by allowing 'innocuous' collection of noncommutatives.
+##new -- See scratch.py -- Simplification of Matrix exponentials fails.
+      -- Simplification of noncommutative exponentials gives wrong result.
+
+Performance:
+#15424 -- Some really slow code generation. Worth investigating?
+
 Unclassified:
 #15283
 #15186
 
 Non-issues:
 #15137
-
-Dsolve wrong answers:
-#15056 -- Maybe tricky.
-
-Collect assumes Commutativity:
-#14608 -- It's not obvious what the correct/expected behavior of collect
-       -- is in a non-commutative context. Need to wait for upstream feedback.
-
-Limit issues:
-#15146 -- There is a good chance all three of these are related.
-#15323
 
