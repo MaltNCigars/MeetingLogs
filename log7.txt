@@ -2,7 +2,9 @@ Meeting 7 2018-11-02
 
 Matthew, Michael and Rishob present.
 
-Worked on getting documentation built in order to update the sympy web documentation.
+Worked on getting documentation built in order to
+update the sympy web documentation.
 
-Found issue with Matrix representation print functions where the representations of the matrices are not equal.
+Found issue with Matrix representation print functions
+where the representations of the matrices are not equal.
 

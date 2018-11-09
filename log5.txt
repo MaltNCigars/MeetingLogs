@@ -2,4 +2,6 @@ Meeting 5: 2018-10-29
 
 Michael and Matthew present.
 
-Investigated issue #14608, figured out that it is not necessarily the wrong answer since the expected or correct result of collect is not clear.
+Investigated issue #14608, figured out that it is
+not necessarily the wrong answer since the expected
+or correct result of collect is not clear.
