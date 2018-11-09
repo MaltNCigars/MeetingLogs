@@ -1,0 +1,11 @@
+Meeting 8: 2018-11-09
+
+Matthew, Michael, Meshri and Rishob present.
+
+Investigated matrix representation,
+found that if simultaneous keyword is set to True
+in subs function for exp matrix then error would get get thrown.
+
+Helped Rishob on getting documentation fix pushes to the
+sympy doc repository.
+
