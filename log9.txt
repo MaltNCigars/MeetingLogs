@@ -1,0 +1,14 @@
+Meeting 9: 2018-11-15
+
+All present.
+
+Discussed with Dr. Gallagher about our progress on the project.
+
+Investigated performance issue #15424 with Python Profiler.
+Found out that the Min function has 5 million to 61 million
+function calls for an arugment of size 50 to 150.
+
+Updated documentation issue #15331 with new
+image, waiting for the Dev's feedback.
+
+Worked on issue #15355 polynomial issue.
