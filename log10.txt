@@ -1,0 +1,7 @@
+Meeting 10: 2018-11-16
+
+Matthew and Michael present. Meshri couldn't make and notified us.
+
+Solved issue with updating documentation page by
+discovering the source file which was in another
+sympy repository.
