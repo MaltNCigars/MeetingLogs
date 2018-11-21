@@ -11,4 +11,4 @@ function calls for an arugment of size 50 to 150.
 Updated documentation issue #15331 with new
 image, waiting for the Dev's feedback.
 
-Worked on issue #15355 polynomial issue.
+Worked on polynomial issue #15355 .
