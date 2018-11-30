@@ -1,8 +1,9 @@
-Meeting: 2018-11-28
+Meeting: 2018-11-29
 
 All present.
 
-Discussed on documentation process on our issues.
+Discussed on documentation process on our issues, trying to get all members
+up to speed on one another's work.
 
 Examined issue 15402 and discussed with Dr. Gallagher
 about our current situation and progress.
