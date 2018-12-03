@@ -1,0 +1,8 @@
+Meeting: 2018-11-30
+
+All present.
+
+Continued working on issue 15402.
+
+Discussed on documenting our issue for
+the final examination.
