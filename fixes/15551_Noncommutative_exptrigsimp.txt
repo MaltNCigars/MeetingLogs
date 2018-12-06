@@ -1,0 +1,21 @@
+Estimated Impact Set:
+
+sympy.simplify.simplify()
+
+  #Binary search reveals short=exptrigsimp(short) is the problem source
+sympy.simplify.exptrigsimp()
+
+  #Binary search reveals newexpr = bottom_up(newexpr, f) as problem source,
+  #with the inner function f's use of Expr.as_powers_dict is the cause
+
+  #I thought it might be necessary to implement a new method,
+  #Expr.as_factors_list(), to implement my bugfix.
+sympy.simplify.as_factors_list()
+
+
+
+Actual Impact Set:
+
+sympy.simplify.exptrigsimp()
+
+#With the Expr.args_cnc() method, no other changes proved necessary.
