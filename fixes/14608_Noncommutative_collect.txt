@@ -1,0 +1,30 @@
+The collect method is supposed to group terms in an additive
+expression based on the order of specified variables contained
+therein.
+
+`collect(a*b + a*c, a)` should return `a*(b+c)` if a,b,c are commutative
+symbols.
+
+Another sympy user discovered that the collect method ignores
+noncommutativity of the terms being collected. Matthew requested
+clarification from the developers about the intended output of
+`collect` given noncommutative arguments, and proposed a solution:
+Since there may be no way to combine the terms of the same order in a
+noncommutative situation (consider `collect(x*a*y + p*a*q, a)`, where
+a, p, q, x, and y are noncommutative), it may be best to raise an
+error upon attempted collection of powers of non-commutative
+variables, and make note of this in the documentation.
+
+After clarification on this was given by the lead sympy developer,
+another sympy contributor implemented Matthew's proposed solution just
+a few hours before Matthew himself did.
+
+Expected impact set:
+
+collect() in sympy.simplify.radsimp
+
+
+Actual impact set:
+
+collect() in sympy.simplify.radsimp
+
