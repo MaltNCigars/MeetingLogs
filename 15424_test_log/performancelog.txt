@@ -1,0 +1,37 @@
+Number of arguments: 1
+820048 function calls (773830 primitive calls) in 0.821 seconds
+
+Number of arguments: 2
+829104 function calls (782366 primitive calls) in 0.819 seconds
+
+Number of arguments: 3
+843874 function calls (796466 primitive calls) in 0.787 seconds
+
+Number of arguments: 4
+870410 function calls (821942 primitive calls) in 0.851 seconds
+
+Number of arguments: 5
+911723 function calls (861713 primitive calls) in 0.873 seconds
+
+Number of arguments: 10
+-Test 1:
+1454249 function calls (1386079 primitive calls) in 1.291 seconds
+
+-Test 2:
+1454736 function calls (1386566 primitive calls) in 1.356 seconds
+
+Number of arguments 20:
+-Test 1:
+5963522 function calls (5734632 primitive calls) in 4.885 seconds
+
+-Test 2:
+5963577 function calls (5734687 primitive calls) in 5.169 seconds
+
+Number of arguments 30:
+20617180 function calls (19742034 primitive calls) in 15.699 seconds
+
+Number of arguments 40:
+49145717 function calls (47011066 primitive calls) in 37.274 seconds
+
+Number of arguments 50:
+96168697 function calls (91957820 primitive calls) in 74.112 seconds
