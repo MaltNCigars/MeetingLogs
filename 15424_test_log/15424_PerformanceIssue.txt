@@ -5,9 +5,9 @@ C99CodePrinter class in sympy.printing.ccode
 CodePrinter class in sympy.printing.codeprinter
 
 
-#Using combination of profiler and a graph visualizer
-#revealed the where the hots spots of the code where
-#it spends most of the time.
+    #Using combination of profiler and a graph visualizer
+    #revealed the where the hots spots of the code where
+    #it spends most of the time.
 
 
 Actual Impact Set:
