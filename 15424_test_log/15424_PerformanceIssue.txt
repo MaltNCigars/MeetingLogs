@@ -1,0 +1,15 @@
+Estimated Impact :
+
+C99CodePrinter class in sympy.printing.ccode
+
+CodePrinter class in sympy.printing.codeprinter
+
+
+#Using combination of profiler and a graph visualizer
+#revealed the where the hots spots of the code where
+#it spends most of the time.
+
+
+Actual Impact Set:
+
+def _print_math_func which is inside the C99CodePrinter class
