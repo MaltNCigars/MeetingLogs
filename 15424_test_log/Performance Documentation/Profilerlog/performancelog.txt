@@ -35,3 +35,8 @@ Number of arguments 40:
 
 Number of arguments 50:
 96168697 function calls (91957820 primitive calls) in 74.112 seconds
+
+
+AFTER FIX:
+Number of arguments 50:
+6522231 function calls (6223157 primitive calls) in 5.584 seconds
