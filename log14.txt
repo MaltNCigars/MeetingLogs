@@ -1,0 +1,5 @@
+Meeting 2018-12-12
+
+Worked on issue 15424, edited code and tested
+out 'Min' arguments. Code seems to perform faster
+than before.

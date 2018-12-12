@@ -1,0 +1,12 @@
+Meeting 2018-12-10
+
+All present
+
+Investigated issue 15424 via function call graph,
+found the exact line where the code slows performance
+for 'Min' arguments.
+
+
+Worked on presentation slides and discussed
+on about all  the materials that needs to be
+on the thumbstick drive.
