@@ -1,15 +1,23 @@
 Estimated Impact :
 
 C99CodePrinter class in sympy.printing.ccode
-
 CodePrinter class in sympy.printing.codeprinter
-
-
-    #Using combination of profiler and a graph visualizer
-    #revealed the where the hots spots of the code where
-    #it spends most of the time.
 
 
 Actual Impact Set:
 
 def _print_math_func which is inside the C99CodePrinter class
+
+Source File changed:
+
+https://github.com/MaltNCigars/sympy/commit/e4b8d29d7bcd37ba545376777999db12301e1030
+
+Estimated time to fix:
+-8-10 hours to find where the code is slowing down
+ by tracing, using cProfile and a graph for function calls.
+-1-2 hours to implement the fix.
+
+Test description:
+Tested the code with different amount of arguments. Code started slowing down
+significantly at 10 to 20 arguments, at 50 arguments it took around 1 minute to finish.
+After implementing the fix, the code takes less than 10 seconds to finish.
