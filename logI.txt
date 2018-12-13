@@ -1,0 +1,6 @@
+Meeting I:
+Meshri, Rishob present.
+Nov 27
+
+
+Worked on issue #5355 solveset() not able to solve long equation to find roots, used array and sub-arrays to solve expression in piecewise fashion. Use of countroots() found correct values for subset solutions to expression.

@@ -1,0 +1,4 @@
+Meeting D:
+Meshri, Rishob present.
+Nov 7
+Changes made to documentation issue #15331. Feedback was reviewed and changes were made to SVG files and uploaded.

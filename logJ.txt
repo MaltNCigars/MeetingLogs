@@ -1,0 +1,6 @@
+Meeting J:
+Meshri, Rishob present.
+Nov 28
+
+
+Worked on issue #15355 with use of factors array and degree(a[]) found roots of polynomial. Issue has been solved with correct roots!

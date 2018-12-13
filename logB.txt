@@ -1,0 +1,4 @@
+Meeting B:
+Meshri, Rishob present.
+Oct 31 - 1 PM
+Bug Research for Issue #15331, graphic design components made. Potential Documentation issue.

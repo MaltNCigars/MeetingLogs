@@ -1,0 +1,6 @@
+Meeting E:
+Meshri, Rishob present.
+Nov 13
+
+
+Issue #15402 found and bug research done on periodicity, absolute value of sin and cos functions in sympy.

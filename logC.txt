@@ -1,0 +1,4 @@
+Meeting C:
+Meshri, Rishob present.
+Nov 1
+upload Documentation fixes. Awaiting feedback from sympy community.

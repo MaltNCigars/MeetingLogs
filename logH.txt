@@ -1,0 +1,6 @@
+Meeting H:
+Meshri, Rishob present.
+Nov 18
+
+
+Worked on issue #15402 found another way to solve expression with correct result with periodicity library and using array from previous meet. Also introduced to issue #15355, research done on solveset(eq,x). 

@@ -1,0 +1,6 @@
+Meeting G:
+Meshri, Rishob present.
+Nov 15
+
+
+Worked on issue #15402 more was found on evalf() function and potential of breaking down issue according to piecewise and solving expression using array.

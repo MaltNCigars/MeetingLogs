@@ -1,0 +1,6 @@
+Meeting F:
+Meshri, Rishob present.
+Nov 14
+
+
+Worked on issue #15402 more found that doit() function has faults and cannot be used for discontinuous equations. 

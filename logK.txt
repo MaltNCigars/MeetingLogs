@@ -1,0 +1,6 @@
+Meeting K:
+Meshri, Rishob present.
+Nov 29
+
+
+Research issue #15552 rootof() has problem finding roots of quartics. Researched rootof() function. 
